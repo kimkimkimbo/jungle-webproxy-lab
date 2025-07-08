@@ -3,7 +3,7 @@
 void echo(int connfd);
 
 /*
-에코 서버 메인
+에코 서버
 */
 int main(int argc, char **argv)
 {
